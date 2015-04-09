@@ -3,7 +3,7 @@
    "relName" : null,
    "appPreview" : false,
    "relationship" : "grid view",
-   "projectTypeName" : "com.intel.xdk.projecttype.webapp",
+   "projectTypeName" : "com.intel.xdk.projecttype.jsapp",
    "description" : "Use this template to provide a grid view that will open detail view. For example, create a Photo app or Instagram* app.",
    "articleUrl" : "https://software.intel.com/en-us/xdk/docs/templates-to-get-started-with-xdk-app-development",
    "sortWeight" : "0.5",
