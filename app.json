@@ -16,6 +16,8 @@
       ""
    ],
    "appName" : null,
+   "section" : "templates",
+   "group" : "other",
    "visible" : true,
    "repoName" : "template-grid-view"
 }
